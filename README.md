@@ -13,7 +13,7 @@ This is a lightweight command-line search engine written in Python. It uses basi
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 1. Make sure you're using **Python 3.7+**.
 2. Save any `.txt` file you'd like to search through.
