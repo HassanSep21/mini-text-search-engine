@@ -1,0 +1,19 @@
+Git is a distributed version control system used by developers to manage code changes. It allows branching, merging, and collaborative development with ease.
+
+CAPTCHAs are used to distinguish humans from bots on websites. Common types include image-based, text-based, and logic puzzles.
+
+The Python programming language is known for its simplicity and versatility. It is widely used in web development, data science, and automation.
+
+Test-driven development (TDD) is a software engineering practice where tests are written before the code. This improves reliability and reduces bugs.
+
+MySQL is an open-source relational database management system. It is used for storing structured data in tables and supports SQL for querying.
+
+Richard Stallman is a prominent advocate for free software. He launched the GNU Project and has been influential in promoting digital freedom.
+
+The importance of backups cannot be overstated. Losing data can be catastrophic, and regular backups help mitigate this risk.
+
+Subversion (SVN) is a version control system that predates Git. It uses a central repository model, whereas Git is distributed.
+
+Numbers like 0, 1, 5, and 7 are often avoided in CAPTCHA images because they can be visually confused with certain letters.
+
+Software developers often feel most productive when writing code that solves real problems. This sense of progress is highly motivating.
